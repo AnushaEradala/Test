@@ -7,3 +7,6 @@ C:\Users\Anu\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\D
 C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
 C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\obj\Debug\Assignment2.exe
 C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Sivat\Desktop\New folder\Test\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Sivat\Desktop\New folder\Test\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Sivat\Desktop\New folder\Test\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

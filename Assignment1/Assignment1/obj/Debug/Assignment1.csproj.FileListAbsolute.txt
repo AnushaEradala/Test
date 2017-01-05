@@ -4,3 +4,6 @@ c:\users\anu\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\D
 c:\users\anu\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
 c:\users\anu\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
 c:\users\anu\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Sivat\Desktop\New folder\Test\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Sivat\Desktop\New folder\Test\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Sivat\Desktop\New folder\Test\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
