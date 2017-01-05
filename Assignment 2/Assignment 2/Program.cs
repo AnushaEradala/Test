@@ -14,9 +14,9 @@ namespace Assignment_2
             Student s2 = new Student("Tom", "Hanks", 1191, "tomh@gmail.com");
             Student s3 = new Student();
             s3.dob = 1290;
-            s3.firstName = "Tim";
-            s3.lastName = "Cruise";
-            s3.email = "Timc@gmail.com";
+            s3.firstName = "Bill";
+            s3.lastName = "Gates";
+            s3.email = "Billg@gmail.com";
 
             int i = Student.GetCount();
             Console.WriteLine("Student1 details are: \n Firstname: {0}  \n Lastname: {1} \n email: {2} \n DOB: {3}", s1.firstName, s1.lastName, s1.email, s1.dob);      
