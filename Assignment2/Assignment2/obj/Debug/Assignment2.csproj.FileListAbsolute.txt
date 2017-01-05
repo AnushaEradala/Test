@@ -4,3 +4,6 @@ C:\Users\Anu\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\D
 C:\Users\Anu\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
 C:\Users\Anu\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
 C:\Users\Anu\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Anu\Source\Repos\Test\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
